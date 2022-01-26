@@ -1,1 +1,1 @@
-This is for practicing.
+This repo is for practicing data structures and algorithms.
